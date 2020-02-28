@@ -14,7 +14,7 @@ public class Camion extends Vehiculos {
 
 	/**
 	 * Muestra la tara de un Camion
-	 * @return
+	 * @return tara
 	 */
 	public float getTara() {
 		return tara;
@@ -22,7 +22,7 @@ public class Camion extends Vehiculos {
 
 	/**
 	 * Asigna la tara al Camion
-	 * @param tara
+	 * @param tara 
 	 */
 	public void setTara(float tara) {
 		this.tara = tara;
@@ -30,7 +30,7 @@ public class Camion extends Vehiculos {
 
 	/**
 	 * Muestra el galibo de un Camion
-	 * @return
+	 * @return galibo
 	 */
 	public float getGalibo() {
 		return galibo;
@@ -39,7 +39,7 @@ public class Camion extends Vehiculos {
 	/**
 	 * Asigna el galibo a un Camion
 	 * 
-	 * @param galibo
+	 * @param galibo 
 	 */
 	public void setGalibo(float galibo) {
 		this.galibo = galibo;

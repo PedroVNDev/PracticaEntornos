@@ -12,7 +12,7 @@ public abstract class Vehiculos {
 	/**
 	 * Muestra la marca del Vehiculo
 	 * 
-	 * @return
+	 * @return marca
 	 */
 	public String getMarca() {
 		return marca;
@@ -30,7 +30,7 @@ public abstract class Vehiculos {
 	/**
 	 * Muestra el modelo del Vehiculo
 	 * 
-	 * @return
+	 * @return modelo
 	 */
 	public String getModelo() {
 		return modelo;
@@ -48,7 +48,7 @@ public abstract class Vehiculos {
 	/**
 	 * Muestra el color del Vehiculo
 	 * 
-	 * @return
+	 * @return color
 	 */
 	public String getColor() {
 		return color;
@@ -66,7 +66,7 @@ public abstract class Vehiculos {
 	/**
 	 * Muestra el tipo de combustible del Vehiculo
 	 * 
-	 * @return
+	 * @return tipocombustible
 	 */
 	public String getTipocombustible() {
 		return tipocombustible;
@@ -84,7 +84,7 @@ public abstract class Vehiculos {
 	/**
 	 * Muestra la cilindrada del Vehiculo
 	 * 
-	 * @return
+	 * @return cilindrada
 	 */
 	public int getCilindrada() {
 		return cilindrada;
@@ -102,7 +102,7 @@ public abstract class Vehiculos {
 	/**
 	 * Muestra las plazas del Vehiculo
 	 * 
-	 * @return
+	 * @return plazas
 	 */
 	public int getPlazas() {
 		return plazas;

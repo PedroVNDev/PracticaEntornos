@@ -18,7 +18,7 @@ public class Formulario {
 	 * Pide datos de 1 Camion al usuario y devuelve todos los datos introducidos por
 	 * este
 	 * 
-	 * @return
+	 * @return c
 	 */
 	public Camion camiones() {
 
@@ -104,7 +104,7 @@ public class Formulario {
 	 * Pide datos de una Moto al usuario y devuelve todos los datos introducidos por
 	 * este
 	 * 
-	 * @return
+	 * @return m
 	 */
 	public Moto motos() {
 
@@ -212,7 +212,7 @@ public class Formulario {
 	 * Pide datos de un Autobus al usuario y devuelve todos los datos introducidos
 	 * por este
 	 * 
-	 * @return
+	 * @return a
 	 */
 	public Autobus autobuses() {
 
@@ -350,7 +350,7 @@ public class Formulario {
 	 * Pide datos de un Coche al usuario y devuelve todos los datos introducidos por
 	 * este
 	 * 
-	 * @return
+	 * @return car
 	 */
 	public Coche coches() {
 

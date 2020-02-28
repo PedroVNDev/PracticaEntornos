@@ -14,7 +14,7 @@ public class Coche extends Vehiculos {
 	/**
 	 * Muestra el numero de puertas de el Coche
 	 * 
-	 * @return
+	 * @return puertas
 	 */
 	public int getPuertas() {
 		return puertas;

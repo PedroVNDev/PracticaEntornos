@@ -13,7 +13,7 @@ public class Moto extends Vehiculos {
 	/**
 	 * Muestra el numero de ruedas de la Moto
 	 * 
-	 * @return
+	 * @return numeroruedas
 	 */
 	public int getNumeroruedas() {
 		return numeroruedas;
